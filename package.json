@@ -30,7 +30,7 @@
     "lab": "^6.1.0",
     "memdown": "^1.1.0",
     "pouch-remote-stream": "https://github.com/agentilela/pouch-remote-stream",
-    "pouchdb": "^5.0.0",
+    "pouchdb": "^6.3.4",
     "pouch-stream-tests": "0.2.0",
     "pre-commit": "^1.1.1"
   },
